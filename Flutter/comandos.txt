@@ -1,0 +1,32 @@
+atalhos 
+
+stl + enter
+
+Widget, objeto/componetes visual que compõem uma tela
+
+ctrl+estapaço
+
+
+
+
+Observações 
+
+No fim de comandos utilizasse ; 
+
+e no fim de telas ,
+
+
+
+Utilitários
+
+container (demanda um controle do posicionamento, o que pode dificultar o desenvolvimento)
+
+scaffold (já vem criando a estrutura e posicionamento da tela de forma dinâmica)
+
+Column, declara uma coluna
+
+
+resolver 
+
+chamar objeto de outras classes 
+e passar um TextInputType como parametro

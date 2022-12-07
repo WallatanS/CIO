@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "Cod Java/Compiladores/Analize Léxica/Analize_Léxica/src",
+        "Cod Java/Compiladores/Lucio Sintático/src/sintático"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730957704378",
+    "project_id": "autochat-a47a9",
+    "storage_bucket": "autochat-a47a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730957704378:android:5099784545206de3372683",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730957704378-7qk1hq2h3lm5ob6dusgj5heftdutjvq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2AuWSMWP_b_2o9MnGg5_JzrOU8xcQoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730957704378-7qk1hq2h3lm5ob6dusgj5heftdutjvq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
