@@ -17,7 +17,6 @@ class LoginScreenNew extends StatelessWidget {
           child: Container(
             width: MediaQuery.of(context).size.width,
             height: MediaQuery.of(context).size.height,
-            color: const Color.fromRGBO(225, 226, 225, 1),
             child: Column(
               //mainAxisSize: MainAxisSize.min,
               children: [

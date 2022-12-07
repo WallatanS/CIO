@@ -13,8 +13,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Versão 1.0',
       theme: ThemeData(
-        primarySwatch: Colors.indigo,
-        secondaryHeaderColor: Colors.blueGrey,
+        primaryColor: const Color(0x00512da8),
+        scaffoldBackgroundColor: Colors.grey[100],
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: const LoginScreenNew(),
     );

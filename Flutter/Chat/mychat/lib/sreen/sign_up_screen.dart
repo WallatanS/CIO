@@ -12,7 +12,6 @@ class SignUpScreen extends StatelessWidget {
         body: Container(
           width: MediaQuery.of(context).size.width,
           height: MediaQuery.of(context).size.height,
-          color: const Color.fromRGBO(225, 226, 225, 1),
           child: Center(
             child: SizedBox(
               child: Column(

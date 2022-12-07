@@ -25,7 +25,7 @@ Widget textFormItem(BuildContext context, String name, bool obscure) {
           ),
         ),
         focusedBorder: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(15),
+          borderRadius: BorderRadius.circular(10),
           borderSide: const BorderSide(
             width: 1.5,
             color: Color.fromRGBO(48, 62, 159, 1),
@@ -58,7 +58,7 @@ Widget textFormItemsenha(BuildContext context, String name, bool obscure) {
           ),
         ),
         focusedBorder: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(15),
+          borderRadius: BorderRadius.circular(10),
           borderSide: const BorderSide(
             width: 1.5,
             color: Color.fromRGBO(48, 62, 159, 1),
