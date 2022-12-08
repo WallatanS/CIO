@@ -195,7 +195,10 @@ class SignUpScreen extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: [
                           OutlinedButton(
-                            onPressed: () {},
+                            onPressed: () {
+                              Navigator.of(context)
+                                  .pop(); //comando para sair da tela
+                            },
                             child: const Text("Cancelar"),
                           ),
                           OutlinedButton(
