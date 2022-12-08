@@ -10,7 +10,6 @@ Widget textFormItem(BuildContext context, String name, bool obscure) {
       textInputAction: TextInputAction.next,
       obscureText: obscure,
       decoration: InputDecoration(
-        //labelText: ,
         hintText: name,
         labelText: name,
         labelStyle: const TextStyle(
@@ -41,6 +40,7 @@ Widget textFormItemsenha(BuildContext context, String name, bool obscure) {
     width: MediaQuery.of(context).size.width * .85,
     child: TextFormField(
       keyboardType: TextInputType.visiblePassword,
+      textInputAction: TextInputAction.done,
       obscureText: obscure,
       decoration: InputDecoration(
         //labelText: ,

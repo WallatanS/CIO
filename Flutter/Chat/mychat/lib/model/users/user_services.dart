@@ -18,6 +18,7 @@ class UserServices {
         .user;
     userLocal.id = user!.uid;
     this.userLocal = userLocal;
+    saveData();
   }
 
   Future<void> saveData() async {
